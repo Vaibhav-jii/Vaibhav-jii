@@ -1,14 +1,14 @@
-# Hi, I'm Vaibhav Bansal 👋
+# Hi, I'm Vaibhav Bansal
 
-🎓 Third-year CS undergraduate at Manipal University Jaipur (CGPA 8.61) building production-grade multi-agent AI systems.
+Third-year CS undergraduate at Manipal University Jaipur (CGPA 8.61) building production-grade multi-agent AI systems.
 
-🤖 Focused on **LangGraph, RAG pipelines, and agentic AI** — from multi-agent orchestration engines to autonomous document-intelligence systems.
+Focused on **LangGraph, RAG pipelines, and agentic AI** — from multi-agent orchestration engines to autonomous document-intelligence systems.
 
-🛠️ Currently interning as an **AI/ML Intern @ Netision Technology**, working on agentic AI systems, MCP integrations, and cloud-document sync pipelines.
+Currently interning as an **AI/ML Intern @ Netision Technology**, working on agentic AI systems, MCP integrations, and cloud-document sync pipelines.
 
 ---
 
-### 🚀 What I'm building
+### What I'm building
 
 - **[KisanMind](https://kisanmind.vercel.app/)** — Multi-agent AgriTech advisory system. 4 autonomous agents (Market, Disease, Weather, Policy) orchestrated via LangGraph + FastAPI, with a CatBoost price-forecasting model (0.833 R²) and Gemini Vision for crop disease diagnosis. Concurrent execution cut average latency by 22% vs sequential processing.
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages:** Java, Python, C, JavaScript
 
@@ -30,6 +30,6 @@
 
 ---
 
-### 📫 Reach me
+### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/vaibhav-bansal-512604331) · bansalvaibhav0409@gmail.com
