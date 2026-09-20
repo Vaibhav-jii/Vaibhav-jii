@@ -10,7 +10,7 @@ Currently interning as an **AI/ML Intern @ Netision Technology**, working on age
 
 ### What I'm building
 
-- **[KisanMind](https://kisanmind.vercel.app/)** — Multi-agent AgriTech advisory system. 4 autonomous agents (Market, Disease, Weather, Policy) orchestrated via LangGraph + FastAPI, with a CatBoost price-forecasting model (0.833 R²) and Gemini Vision for crop disease diagnosis. Concurrent execution cut average latency by 22% vs sequential processing.
+- **[KrishiSetu](bit.ly/KrishiSetu)** — Multi-agent AgriTech advisory system. 4 autonomous agents (Market, Disease, Weather, Policy) orchestrated via LangGraph + FastAPI, with a CatBoost price-forecasting model (0.833 R²) and Gemini Vision for crop disease diagnosis. Concurrent execution cut average latency by 22% vs sequential processing.
 
 - **[Studify](https://studifyapp.vercel.app/)** — Full-stack AI study platform (React + FastAPI + Supabase). Dual-engine time estimator (WPM heuristic + Gemini 2.5 Flash) and an AI quiz engine generating structured MCQs with JSON validation.
 
